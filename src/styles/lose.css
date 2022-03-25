@@ -1,0 +1,16 @@
+.loser-popup{
+    position: absolute;
+    justify-self: center;
+    margin-top: 4rem;
+    background-color: #95d244;
+    width: 33vw;
+    height: 33vh;
+    z-index: 1;
+    opacity: 1;
+    border-radius: 2rem;
+    color: #f0262a;
+}
+
+h3{
+    font-size: 3rem;
+}

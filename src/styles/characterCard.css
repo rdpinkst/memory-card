@@ -1,0 +1,14 @@
+.character-card{
+    border: solid 5px #9ac7e8; 
+    border-radius: 2rem;
+    padding: 1rem 0; 
+    cursor: pointer;
+    background-color: #9ac7e8;
+}
+
+img{
+    height: 12rem;
+    width: 14rem;
+    object-fit: contain;
+}
+
